@@ -1,0 +1,25 @@
+# Windows 관련 시스템 파일 및 디렉토리 제외
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Templates/
+시작 메뉴/
+
+# Windows에서 생성된 파일들 제외
+*.lnk
+*.tmp
+*.log
+NTUSER.DAT*
+*.ini
+
+# 기타 불필요한 파일들 제외
+AppData/
+.vscode/
+.gradle/
+build/
+out/
