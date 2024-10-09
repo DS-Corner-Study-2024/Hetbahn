@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3ac6e2db-4bea-4d5a-a612-00bb1af67911" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Corner/Spring_Study/repository/MemoryMemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Corner/Spring_Study/repository/MemoryMemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Corner/Spring_Study/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Corner/Spring_Study/service/MemberService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +39,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,6 +60,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Gradle.Build Spring-Study.executor": "Run",
     "JUnit.MemberServiceTest.executor": "Run",
     "JUnit.MemberServiceTest.중복_회원_예외.executor": "Run",
@@ -97,7 +101,7 @@
       <recent name="Corner.Spring_Study.service" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MemberServiceTest">
+  <component name="RunManager" selected="Spring Boot.SpringStudyApplication">
     <configuration name="MemberServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Spring-Study.test" />
       <extension name="coverage">
@@ -214,7 +218,8 @@
       <workItem from="1727320050857" duration="1333000" />
       <workItem from="1727321429044" duration="2334000" />
       <workItem from="1727325022347" duration="191000" />
-      <workItem from="1727590868490" duration="14374000" />
+      <workItem from="1727590868490" duration="20923000" />
+      <workItem from="1728463319781" duration="4307000" />
     </task>
     <servers />
   </component>
@@ -226,17 +231,17 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Corner/Spring_Study/repository/MemoryMemberRepositoryTest.java</url>
-          <line>11</line>
+          <line>10</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Corner/Spring_Study/service/MemberServiceTest.java</url>
-          <line>13</line>
+          <line>11</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/Corner/Spring_Study/repository/MemoryMemberRepositoryTest.java</url>
-          <line>47</line>
+          <line>46</line>
           <properties class="Corner.Spring_Study.repository.MemoryMemberRepositoryTest" method="findAll">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -245,7 +250,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/Corner/Spring_Study/service/MemberServiceTest.java</url>
-          <line>30</line>
+          <line>28</line>
           <properties class="Corner.Spring_Study.service.MemberServiceTest" method="회원가입">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
