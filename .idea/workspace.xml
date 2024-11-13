@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ac6e2db-4bea-4d5a-a612-00bb1af67911" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Corner/Spring_Study/SpringConnfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Corner/Spring_Study/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Corner/Spring_Study/controller/MemberController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Corner/Spring_Study/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Corner/Spring_Study/domain/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Corner/Spring_Study/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Corner/Spring_Study/service/MemberService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +227,8 @@
       <workItem from="1727590868490" duration="20923000" />
       <workItem from="1728463319781" duration="5512000" />
       <workItem from="1730869569603" duration="6430000" />
-      <workItem from="1730906523369" duration="12916000" />
+      <workItem from="1730906523369" duration="13254000" />
+      <workItem from="1731538611399" duration="1088000" />
     </task>
     <servers />
   </component>
