@@ -1,11 +1,8 @@
 package com.springboot.advanced_jpa.data.entity;
 
+import lombok.*;
+
 import jakarta.persistence.*;
-import lombok.EqualsAndHashCode;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-import lombok.ToString;
 
 @Entity
 @Getter
@@ -28,4 +25,5 @@ public class Product extends BaseEntity {
 
     @Column(nullable = false)
     private Integer stock;
+
 }
